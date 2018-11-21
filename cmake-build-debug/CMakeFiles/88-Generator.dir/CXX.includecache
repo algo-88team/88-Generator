@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/thdtj/OneDrive/GitHub/88-Generator/create_blank.cpp
+iostream
+-
+create_blank.h
+/cygdrive/c/Users/thdtj/OneDrive/GitHub/88-Generator/create_blank.h
+
+/cygdrive/c/Users/thdtj/OneDrive/GitHub/88-Generator/create_blank.h
+
+/cygdrive/c/Users/thdtj/OneDrive/GitHub/88-Generator/create_puzzle.cpp
+iostream
+-
+create_puzzle.h
+/cygdrive/c/Users/thdtj/OneDrive/GitHub/88-Generator/create_puzzle.h
+
+/cygdrive/c/Users/thdtj/OneDrive/GitHub/88-Generator/create_puzzle.h
+
+/cygdrive/c/Users/thdtj/OneDrive/GitHub/88-Generator/main.cpp
+iostream
+-
+fstream
+-
+create_puzzle.h
+/cygdrive/c/Users/thdtj/OneDrive/GitHub/88-Generator/create_puzzle.h
+create_blank.h
+/cygdrive/c/Users/thdtj/OneDrive/GitHub/88-Generator/create_blank.h
+

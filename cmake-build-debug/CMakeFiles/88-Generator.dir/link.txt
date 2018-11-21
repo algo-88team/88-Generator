@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/88-Generator.dir/main.cpp.o CMakeFiles/88-Generator.dir/create_puzzle.cpp.o CMakeFiles/88-Generator.dir/create_blank.cpp.o  -o 88-Generator.exe -Wl,--out-implib,lib88-Generator.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
